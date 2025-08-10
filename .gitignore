@@ -1,0 +1,31 @@
+# Build artifacts
+Debug/
+Release/
+*.o
+*.so
+*.exe
+*.dll
+*.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.env
+venv/
+env/
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
+.codelite/
+*.project
+*.workspace
+*.mk
+Naive_Bayes.txt
+
+# Other
+.DS_Store
